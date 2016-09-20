@@ -1,15 +1,7 @@
-# exercise-repo
-
-
-repo-exersice
-
-exersice project
-
-testing project
-
-<<<<<<< HEAD
-edited in master branch
-
-=======
-test test test
->>>>>>> develop
+1. exercise-repo
+2. repo-exersice
+3. exersice project
+4. testing project
+5. edited in master branch
+6. test test test
+7. test again
